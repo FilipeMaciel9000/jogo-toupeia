@@ -1,8 +1,4 @@
-Perfeito! Vamos adaptar o README para um **Jogo da Topeira** (Whac-A-Mole) mantendo o mesmo estilo profissional e chamativo:
-
----
-
-# 🕳️🔨 – Jogo da Topeira no Navegador
+# 🐹🕳️🔨 – Jogo da Topeira no Navegador
 
 > **Teste sua agilidade e reflexos em um jogo divertido e viciante!**
 > Um jogo tradicional de **Whac-A-Mole** (Jogo da Topeira) feito com **HTML, CSS e JavaScript**.
@@ -25,9 +21,9 @@ O objetivo é acertar o maior número de topeiras que aparecem aleatoriamente no
 
 ## 📸 Demonstração
 
-| Tela Inicial                                                                                                              |
-| ------------------------------------------------------------------------------------------------------------------------- |
-| <img width="480" height="380" alt="image" src="https://github.com/user-attachments/assets/placeholder-whac-a-mole.png" /> |
+| Tela Inicial                                                                                                                       |
+| ---------------------------------------------------------------------------------------------------------------------------------- |
+| <img width="410" height="413" alt="image" src="https://github.com/user-attachments/assets/1e7b9ab7-918d-44f8-863b-30edda05b846" /> |
 
 ---
 
