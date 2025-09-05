@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="author" content="Filipe Maciel" />
+    <meta name="description" content="Jogue o jogo da topeira no navegador" />
+    <meta
+      name="keywords"
+      content="jogo da topeira, jogo, educativo, diversão, navegador"
+    />
+    <link
+      rel="icon"
+      href="data:image/svg+xml,&lt;svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22&gt;&lt;text y=%22.9em%22 font-size=%2290%22&gt;🐹&lt;/text&gt;&lt;/svg&gt;"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+    />
+    <link rel="stylesheet" href="style.css" />
+    <title>Jogo da topeira</title>
+  </head>
+  <body>
+    <h1>Whac-A-Mole</h1>
+    <h2>Acerte a topeira clicando:</h2>
+
+    <div id="container">
+      <div id="game-info">
+        <div>Pontuação: <span id="score">0</span></div>
+        <div>Tempo: <span id="time">30</span>s</div>
+      </div>
+
+      <div id="game-board">
+        <!-- Os buracos serão gerados via JavaScript -->
+      </div>
+
+      <div id="controls">
+        <button id="start">Iniciar</button>
+        <button id="restart">Reiniciar</button>
+      </div>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
